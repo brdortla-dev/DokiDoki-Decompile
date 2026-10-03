@@ -9,7 +9,7 @@ init python:
 
     poem_y1 = Poem(
     author = "yuri",
-    title = "Ghost Under the Light",
+    title = "Ghost Under the I HATE PATIENCE I HATE PATIENCE I HATE PAIRENCE I HATE PAIRENCE"
     text = """\
 The tendrils of my hair illuminate beneath the amber glow.
 Bathing.
