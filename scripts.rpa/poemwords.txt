@@ -6,7 +6,7 @@ sadness,3,2,1
 death,3,1,2
 tragedy,3,1,2
 alone,3,1,2
-love,3,2,1
+its me its verity,3,2,1
 adventure,3,2,1
 sweet,3,2,1
 excitement,3,2,1
